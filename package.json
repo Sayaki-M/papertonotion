@@ -1,0 +1,15 @@
+{
+  "name": "papertonotion",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sayaki-M",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@notionhq/client": "^2.2.5",
+    "express": "^4.18.2"
+  }
+}
